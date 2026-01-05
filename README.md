@@ -31,3 +31,7 @@ Using Python and Biopython, I processed raw NCBI FASTA sequences to calculate ke
     pip install biopython pandas seaborn matplotlib
     ```
 3.  Open and run `variantanalysis.ipynb` in Jupyter Notebook.
+
+---
+
+*This project demonstrates proficiency in bioinformatics pipelines, biological data handling (FASTA), and scientific visualization.*
