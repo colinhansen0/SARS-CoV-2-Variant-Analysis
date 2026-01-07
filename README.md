@@ -24,14 +24,18 @@ Using Python and Biopython, I processed raw NCBI FASTA sequences to calculate ke
 * **Proteomic Shift:** Heatmap analysis reveals distinct amino acid frequency signatures for each variant, reflecting the mutations that drive transmissibility and immune evasion.
 * **Structural Dimensions:** Molecular weight analysis confirms slight mass variations consistent with known insertions and deletions (indels) in the Omicron variant.
 
+## For use of different FASTA files
+Please run `differentVA.ipynb` along with uploading FASTA sequence files to the current working directory, then follow along with instructions in Jupyter notebook to analyze.
+
 ## How to Run
 1.  Clone repository.
 2.  Install dependencies:
     ```bash
     pip install biopython pandas seaborn matplotlib
     ```
-3.  Open and run `variantanalysis.ipynb` in Jupyter Notebook.
+3.  Open and run `variantanalysis.ipynb` or `differentVA.ipynb` in Jupyter Notebook.
 
 ---
 
 *This project demonstrates proficiency in bioinformatics pipelines, biological data handling (FASTA), and scientific visualization.*
+
